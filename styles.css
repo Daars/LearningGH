@@ -1,5 +1,6 @@
 body {
-    background: aquamarine;
+    background: lightcoral;
+    color: aquamarine;
     display: flex;
     flex-direction: column;
 }
